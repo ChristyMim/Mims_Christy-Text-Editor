@@ -1,0 +1,11 @@
+E:\vbp\Mims_Christy Text Editor\Mims_Christy Text Editor\bin\Debug\Mims_Christy Text Editor.exe.config
+E:\vbp\Mims_Christy Text Editor\Mims_Christy Text Editor\bin\Debug\Mims_Christy Text Editor.exe
+E:\vbp\Mims_Christy Text Editor\Mims_Christy Text Editor\bin\Debug\Mims_Christy Text Editor.pdb
+E:\vbp\Mims_Christy Text Editor\Mims_Christy Text Editor\bin\Debug\Mims_Christy Text Editor.xml
+E:\vbp\Mims_Christy Text Editor\Mims_Christy Text Editor\obj\Debug\Mims_Christy Text Editor.vbprojResolveAssemblyReference.cache
+E:\vbp\Mims_Christy Text Editor\Mims_Christy Text Editor\obj\Debug\Mims_Christy_Text_Editor.frmTextEditor.resources
+E:\vbp\Mims_Christy Text Editor\Mims_Christy Text Editor\obj\Debug\Mims_Christy_Text_Editor.Resources.resources
+E:\vbp\Mims_Christy Text Editor\Mims_Christy Text Editor\obj\Debug\Mims_Christy Text Editor.vbproj.GenerateResource.Cache
+E:\vbp\Mims_Christy Text Editor\Mims_Christy Text Editor\obj\Debug\Mims_Christy Text Editor.exe
+E:\vbp\Mims_Christy Text Editor\Mims_Christy Text Editor\obj\Debug\Mims_Christy Text Editor.xml
+E:\vbp\Mims_Christy Text Editor\Mims_Christy Text Editor\obj\Debug\Mims_Christy Text Editor.pdb
